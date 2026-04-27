@@ -1,5 +1,3 @@
-# COA Assignments
-
 <div align="center">
 
 # Computer Organization and Architecture
